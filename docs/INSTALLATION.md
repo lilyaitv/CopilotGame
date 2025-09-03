@@ -10,6 +10,9 @@
 - 소스코드에서 설치하려면 Git이 필요합니다
 - [Git 공식 웹사이트](https://git-scm.com/)에서 다운로드
 
+### VSCode 설치 (선택사항)
+- [Visual Studio Code 공식 웹사이트][(ttps://code.visualstudio.com/download)에서 다운로드
+
 ## �� 설치 방법
 
 ### 방법 1: 소스코드에서 설치
@@ -106,3 +109,4 @@ pip install -r requirements.txt --upgrade
 ### 실행 파일 업데이트
 - GitHub Releases에서 최신 버전 다운로드
 - 기존 파일 교체
+
