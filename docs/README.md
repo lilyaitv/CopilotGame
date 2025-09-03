@@ -212,3 +212,12 @@ def load_settings():
 ## �� 문의
 
 프로젝트에 대한 문의사항이 있으시면 이슈를 생성해 주세요.
+
+주요 문서들:
+1. **README.md** - 프로젝트 개요 및 시작 가이드
+2. **INSTALLATION.md** - 상세한 설치 가이드
+3. **API_REFERENCE.md** - 개발자를 위한 API 문서
+4. **CONTRIBUTING.md** - 기여 가이드
+5. **CHANGELOG.md** - 변경 이력
+
+이 문서들은 프로젝트의 구조, 기능, 개발 방법 등을 포괄적으로 다루고 있습니다.
