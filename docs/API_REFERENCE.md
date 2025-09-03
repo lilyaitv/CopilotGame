@@ -1,6 +1,6 @@
 # API 참조 문서
 
-## �� 게임 시스템 API
+## 😜 게임 시스템 API
 
 ### 게임 상태 관리
 
@@ -254,7 +254,7 @@ def show_multi_color_message(text_parts, duration=2.0):
     active_temporary_messages.append(message)
 ```
 
-## �� 렌더링 API
+## 🤗 렌더링 API
 
 ### 화면 그리기 함수
 
@@ -362,12 +362,12 @@ def ensure_directory_exists(path):
 ```markdown
 # 기여 가이드
 
-## �� 기여 방법
+## 😁 기여 방법
 
 농장 시뮬레이터 프로젝트에 기여하고 싶으시다면 감사합니다! 
 이 문서는 프로젝트에 기여하는 방법을 안내합니다.
 
-## �� 기여하기 전에
+## 🤗 기여하기 전에
 
 ### 1. 이슈 확인
 - [Issues](https://github.com/yourusername/farm-simulator/issues) 페이지에서 
@@ -378,7 +378,7 @@ def ensure_directory_exists(path):
 - [README.md](README.md)를 읽어 프로젝트의 목적과 구조를 이해하세요.
 - [API_REFERENCE.md](API_REFERENCE.md)를 참고하여 코드 구조를 파악하세요.
 
-## �� 기여 시작하기
+## 😉 기여 시작하기
 
 ### 1. 저장소 포크
 - GitHub에서 이 저장소를 포크하세요.
@@ -607,7 +607,7 @@ git push origin feature/your-feature-name
 Closes #123
 ```
 
-## �� 코드 리뷰
+## 😊 코드 리뷰
 
 ### 리뷰 요청 시
 - 코드 리뷰어를 지정하세요.
@@ -619,7 +619,7 @@ Closes #123
 - 코드 품질과 가독성을 중점적으로 검토하세요.
 - 보안 문제나 성능 이슈가 있는지 확인하세요.
 
-## �� 문서 업데이트
+## 😘 문서 업데이트
 
 ### 코드 변경 시 문서도 함께 업데이트
 - 새로운 기능에 대한 설명 추가
@@ -659,7 +659,7 @@ Closes #123
 감사합니다! 🎉
 ```
 
-### �� docs/CHANGELOG.md
+### 🙌 docs/CHANGELOG.md
 ```markdown
 # 변경 이력
 
