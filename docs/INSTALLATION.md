@@ -23,7 +23,7 @@ git clone https://github.com/yourusername/farm-simulator.git
 cd farm-simulator
 ```
 
-#### 2단계: 가상환경 생성
+#### 2단계: 가상환경 생성 및 실행
 ```bash
 # Windows
 python -m venv venv
@@ -56,7 +56,13 @@ python main.py
 - macOS: `farm-simulator.app` 실행
 - Linux: `farm-simulator` 실행
 
-## �� 의존성 목록
+#### 브랜치 생성(선택)
+```bash
+git checkout -b feature/your-feature-name
+# 또는
+git checkout -b fix/your-bug-fix
+```
+## 👽 의존성 목록
 
 ### 필수 패키지
 
@@ -109,4 +115,5 @@ pip install -r requirements.txt --upgrade
 ### 실행 파일 업데이트
 - GitHub Releases에서 최신 버전 다운로드
 - 기존 파일 교체
+
 
